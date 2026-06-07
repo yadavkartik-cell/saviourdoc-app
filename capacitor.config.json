@@ -1,0 +1,19 @@
+{
+  "appId": "com.saviourdoc.app",
+  "appName": "SaviourDoc",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2500,
+      "backgroundColor": "#0a2342",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "Dark",
+      "backgroundColor": "#0a2342"
+    }
+  }
+}
